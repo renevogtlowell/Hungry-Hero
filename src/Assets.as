@@ -8,7 +8,8 @@
  * This ActionScript source code is free.
  * You can redistribute and/or modify it in accordance with the
  * terms of the accompanying Simplified BSD License Agreement.
- *  
+ * 
+ * Rene just added junk to test Tower from git-tower.com 
  */
 
 package 
